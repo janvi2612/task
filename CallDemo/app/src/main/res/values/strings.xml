@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CallDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+   <string name="no1">1</string>
+    <string name="no2">2\nABC</string>
+    <string name="no3">3\nDEF</string>
+    <string name="no4">4\nGHI</string>
+    <string name="no5">5\nJKL</string>
+    <string name="no6">6\nMNO</string>
+    <string name="no7">7\nPQRS</string>
+    <string name="no8">8\nTUV</string>
+    <string name="no9">9\nWXYZ</string>
+    <string name="no0">0\n+</string>
+    <string name="star">*</string>
+    <string name="has">#</string>
+
+  <string name="mute">mute</string>
+    <string name="keyboard">keyboard</string>
+    <string name="speaker">speaker</string>
+    <string name="addcall">add call</string>
+
+    <string name="Facetime">Facetime</string>
+
+    <string name="contacts">contacts</string>
+    <string name="hase">#</string>
+    <string name="star1">*</string>
+
+
+</resources>

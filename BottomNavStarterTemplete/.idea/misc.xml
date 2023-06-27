@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/animated_home_icon.xml" value="0.1195" />
+        <entry key="app/src/main/res/drawable/animated_settings_icon.xml" value="0.1195" />
+        <entry key="app/src/main/res/drawable/animated_settings_reverse_icon.xml" value="0.1195" />
+        <entry key="app/src/main/res/drawable/bg_custom_bottom_nav.xml" value="0.209" />
+        <entry key="app/src/main/res/drawable/bg_selected_fab.xml" value="0.209" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_animated_bottom_nav.xml" value="0.16185410334346503" />
+        <entry key="app/src/main/res/layout/activity_custom_bottom_nav.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_custom_bottom_nav_without_fab.xml" value="0.307518115942029" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.307518115942029" />
+        <entry key="app/src/main/res/layout/activity_material.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_favourites.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.16185410334346503" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.307518115942029" />
+        <entry key="app/src/main/res/menu/animated_bottom_nav_menu.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.33177083333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="corretto-18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
